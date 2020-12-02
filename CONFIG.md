@@ -24,7 +24,7 @@ Part of the test framework is actually used to bootstrap the app when you run `n
 
 ### Full Time Details
 
-Full Time Details are only available to agencies that are specifically enabled in the database.  (For context, inside the federal government, Open Opportunities is deployed with a freemium model, where any federal employee can post or respond to an opportunity, but if an agency wants to run a program within their agency, they may help fund platform development and access additional features.  One of those features is full-time details).
+Full Time Details are only available to agencies that are specifically enabled in the database.  (For context, inside the state government, Open Opportunities is deployed with a freemium model, where any state employee can post or respond to an opportunity, but if an agency wants to run a program within their agency, they may help fund platform development and access additional features.  One of those features is full-time details).
 
 Full Time Details appear as an option on the Task create and edit pages, implemented in `assets/js/backbone/apps/tasks/new/views/task_form_view.js`.
 
